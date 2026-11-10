@@ -4,17 +4,20 @@ title: Inkly · Подпишу — Политика конфиденциальн
 
 # Политика конфиденциальности «Подпишу» (Inkly)
 
-Действует с 28 октября 2026 г. Приложение: «Подпишу» / Inkly для Android (`ru.podpishu.app`).
+Действует с 10 ноября 2026 г. (предыдущая редакция — от 28 октября 2026 г.) Приложение: «Подпишу» / Inkly для Android (`ru.podpishu.app`).
 
 ## Коротко
-Ваши документы, подписи, печати и личные данные остаются на вашем устройстве. Приложение не требует регистрации и никуда их не отправляет. Интернет используется только для рекламы и проверки обновлений.
+Ваши документы, подписи, печати и личные данные хранятся на вашем устройстве. Приложение не требует регистрации и само никуда их не отправляет. Подписи, печати и «Мои данные» могут попасть в резервную копию вашего Google-аккаунта — только если вы её включили и только в зашифрованном виде. Интернет используется только для рекламы и проверки обновлений.
 
 ## Что хранится на устройстве
 - Документы, которые вы открываете, и всё, что вы на них добавили (текст, подписи, печати), — в списке «Недавние» (до 30 документов).
 - Ваши подписи и печати.
-- «Мои данные» (ФИО, дата рождения, адрес, телефон, e-mail, паспорт) — только если вы их заполнили.
+- «Мои данные» и данные близких (ФИО, дата рождения, адрес, телефон, e-mail, данные документа, удостоверяющего личность, и поля, которые вы добавили сами) — только если вы их заполнили.
 
-Эти данные хранятся во внутренней памяти приложения, недоступной другим приложениям, и не попадают в облачную резервную копию. Разработчик к ним доступа не имеет. Удалить их можно в приложении («Недавние» → «Очистить всё», удаление подписей и печатей) или удалив приложение.
+Эти данные хранятся во внутренней памяти приложения, недоступной другим приложениям. Разработчик к ним доступа не имеет. Удалить их можно в приложении («Недавние» → «Очистить всё», удаление подписей и печатей) или удалив приложение.
+
+## Резервная копия
+Если в настройках телефона включена резервная копия Google, Android может сохранять в ваш Google-аккаунт подписи, печати, «Мои данные», данные близких и настройки приложения. Приложение разрешает это, только когда копия шифруется на самом телефоне ключом от блокировки экрана: прочитать её не могут ни Google, ни разработчик. Документы из «Недавних» в облачную копию не попадают; при переносе данных со старого телефона на новый (кабелем или по Wi-Fi) они переносятся вместе с остальным. Отключить резервную копию можно в настройках Android («Google» → «Резервное копирование»).
 
 Фото и сканы документов обрабатываются прямо на устройстве. Файлы Word (DOC, DOCX) преобразуются в PDF тоже на устройстве.
 
@@ -34,17 +37,20 @@ title: Inkly · Подпишу — Политика конфиденциальн
 
 # Inkly Privacy Policy
 
-Effective October 28, 2026. App: Inkly (Подпишу) for Android (`ru.podpishu.app`).
+Effective November 10, 2026 (previous version: October 28, 2026). App: Inkly (Подпишу) for Android (`ru.podpishu.app`).
 
 ## In short
-Your documents, signatures, stamps and personal details stay on your device. The app needs no account and does not send them anywhere. The internet is used only for ads and update checks.
+Your documents, signatures, stamps and personal details are kept on your device. The app needs no account and does not send them anywhere by itself. Signatures, stamps and "My details" may go into your Google account backup, only if you turned it on and only encrypted. The internet is used only for ads and update checks.
 
 ## What is stored on your device
 - Documents you open and everything you add to them (text, signatures, stamps), in "Recent" (up to 30 documents).
 - Your signatures and stamps.
-- "My details" (name, date of birth, address, phone, e-mail, passport), only if you fill them in.
+- "My details" and your family members' details (name, date of birth, address, phone, e-mail, identity document details and fields you added), only if you fill them in.
 
-This data is kept in the app's private storage, which other apps cannot read, and is excluded from cloud backup. The developer has no access to it. You can delete it in the app ("Recent" → "Clear all", deleting signatures and stamps) or by uninstalling the app.
+This data is kept in the app's private storage, which other apps cannot read. The developer has no access to it. You can delete it in the app ("Recent" → "Clear all", deleting signatures and stamps) or by uninstalling the app.
+
+## Backup
+If Google backup is on in your phone's settings, Android may save your signatures, stamps, "My details", your family's details and the app's settings to your Google account. The app allows this only when the backup is encrypted on the phone with your screen lock: neither Google nor the developer can read it. Documents in "Recent" are not put in the cloud backup; when you move your data from an old phone to a new one (by cable or Wi-Fi) they move along. You can turn backup off in Android settings (Google → Backup).
 
 Photos and scans are processed on the device. Word files (DOC, DOCX) are converted to PDF on the device as well.
 
