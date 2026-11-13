@@ -4,10 +4,10 @@ title: Inkly · Подпишу — Политика конфиденциальн
 
 # Политика конфиденциальности «Подпишу» (Inkly)
 
-Действует с 10 ноября 2026 г. (предыдущая редакция — от 28 октября 2026 г.) Приложение: «Подпишу» / Inkly для Android (`ru.podpishu.app`).
+Действует с 13 ноября 2026 г. (предыдущая редакция — от 10 ноября 2026 г.) Приложение: «Подпишу» / Inkly для Android (`ru.podpishu.app`).
 
 ## Коротко
-Ваши документы, подписи, печати и личные данные хранятся на вашем устройстве. Приложение не требует регистрации и само никуда их не отправляет. Подписи, печати и «Мои данные» могут попасть в резервную копию вашего Google-аккаунта — только если вы её включили и только в зашифрованном виде. Интернет используется только для рекламы и проверки обновлений.
+Ваши документы, подписи, печати и личные данные хранятся на вашем устройстве. Приложение не требует регистрации и само никуда их не отправляет. Подписи, печати и «Мои данные» могут попасть в резервную копию вашего Google-аккаунта — только если вы её включили и только в зашифрованном виде. Интернет используется для рекламы, проверки обновлений и отчётов об ошибках; отчёты можно выключить.
 
 ## Что хранится на устройстве
 - Документы, которые вы открываете, и всё, что вы на них добавили (текст, подписи, печати), — в списке «Недавние» (до 30 документов).
@@ -27,6 +27,11 @@ title: Inkly · Подпишу — Политика конфиденциальн
 ## Проверка обновлений
 При запуске приложение проверяет, есть ли новая версия: через Google Play или RuStore — если установлено оттуда, либо через страницу релизов GitHub — если установлено из файла APK. При этом магазин или GitHub видит обычный сетевой запрос (IP-адрес), но не ваши данные.
 
+## Отчёты об ошибках
+Если в приложении происходит сбой, оно отправляет разработчику отчёт через сервис AppMetrica (ООО «Яндекс»): что сломалось и в каком месте программы, версию приложения, модель телефона и версию Android. Имена файлов, содержимое документов, подписи, печати и введённый текст в отчёт не попадают. AppMetrica при этом получает сведения об устройстве и IP-адрес и обрабатывает их по [своим условиям](https://yandex.ru/legal/appmetrica_sdk_agreement/). Рекламный идентификатор и местоположение приложение в AppMetrica не передаёт. Отправку отчётов можно выключить в настройках («Отправлять отчёты об ошибках»).
+
+Если вы сами сообщаете о проблеме («Настройки» → «Сообщить об ошибке»), разработчик получает написанный вами текст и, если отмечено «Приложить журнал ошибок», журнал ошибок без имён файлов.
+
 ## Дети
 Приложение не предназначено для детей до 13 лет и не собирает намеренно их данные.
 
@@ -37,10 +42,10 @@ title: Inkly · Подпишу — Политика конфиденциальн
 
 # Inkly Privacy Policy
 
-Effective November 10, 2026 (previous version: October 28, 2026). App: Inkly (Подпишу) for Android (`ru.podpishu.app`).
+Effective November 13, 2026 (previous version: November 10, 2026). App: Inkly (Подпишу) for Android (`ru.podpishu.app`).
 
 ## In short
-Your documents, signatures, stamps and personal details are kept on your device. The app needs no account and does not send them anywhere by itself. Signatures, stamps and "My details" may go into your Google account backup, only if you turned it on and only encrypted. The internet is used only for ads and update checks.
+Your documents, signatures, stamps and personal details are kept on your device. The app needs no account and does not send them anywhere by itself. Signatures, stamps and "My details" may go into your Google account backup, only if you turned it on and only encrypted. The internet is used for ads, update checks and error reports; reports can be turned off.
 
 ## What is stored on your device
 - Documents you open and everything you add to them (text, signatures, stamps), in "Recent" (up to 30 documents).
@@ -59,6 +64,11 @@ The app is free and supported by ads from Yandex Advertising Network (Yandex Mob
 
 ## Update checks
 On start the app checks for a newer version: through Google Play or RuStore if installed from there, or through the GitHub releases page if installed from an APK file. The store or GitHub sees an ordinary network request (IP address), not your data.
+
+## Error reports
+If the app crashes or runs into an error, it sends the developer a report through AppMetrica (Yandex LLC): what broke and where in the program, the app version, the phone model and the Android version. File names, document contents, signatures, stamps and anything you typed are never included. AppMetrica also receives device information and the IP address and processes them under [its terms](https://yandex.com/legal/appmetrica_sdk_agreement/). The app does not pass the advertising ID or location to AppMetrica. You can turn reports off in Settings ("Send error reports").
+
+If you report a problem yourself (Settings → "Report a problem"), the developer receives the text you wrote and, if "Attach the error log" is ticked, the error log without file names.
 
 ## Children
 The app is not directed at children under 13 and does not knowingly collect their data.
